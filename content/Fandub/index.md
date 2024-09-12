@@ -1,1 +1,0 @@
-### Інформація щодо українського фан-дабу, взята з репозиторію [Volbil'a](https://github.com/volbil/fandub-resources).
