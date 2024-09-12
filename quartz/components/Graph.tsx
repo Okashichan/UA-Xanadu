@@ -20,7 +20,7 @@ export interface D3Config {
   focusOnHover?: boolean
 }
 
-export interface GraphOptions {
+interface GraphOptions {
   localGraph: Partial<D3Config> | undefined
   globalGraph: Partial<D3Config> | undefined
 }
